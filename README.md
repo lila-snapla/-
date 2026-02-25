@@ -9,8 +9,10 @@
 * git reset --hard
 * git log --oneline
 
-### мой коdick:
-### int a = 5;
-### int b = 300;
-### int c = a+b;
-### Console.WriteLine($"Число {a} плюс число {b} равно {c}");
+```
+мой коdick:
+int a = 5;
+int b = 300;
+int c = a+b;
+Console.WriteLine($"Число {a} плюс число {b} равно {c}");
+```
